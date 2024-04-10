@@ -1,1 +1,1 @@
-# KTU-S4-PYTHON-LAB
+# PYthonLAB
